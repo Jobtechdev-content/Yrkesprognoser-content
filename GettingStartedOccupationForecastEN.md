@@ -1,6 +1,6 @@
-## Af Occupation Forecast - Getting started
+## Occupation Forecast (Yrkesprognoser) - Getting started
 
-API Af Occupation Forecasts contains 1 and 5 years forecasts for different occupations. The Forecasts are made and published in February 2018.
+API Occupation Forecasts contains 1 and 5 years forecasts for different occupations. The Forecasts are made and published in February 2018.
 The forecasts are based on the standard SSYK (Swedish standard occupation classification). Read more about <a href="http://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/" target="_blank">SSYK</a>
 
 With API AF Occupation Forecasts it is possible to integrate Arbetsförmedlingen (the Employment Agency) forecasts into in custom built applications.

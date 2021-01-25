@@ -1,7 +1,7 @@
 
-## Af Occupation Forecast - Kom igång
+## Yrkesprognoser - Kom igång
 
-API Af Yrkesprognoser innehåller 1 och 5 års prognoser för olika yrken. Prognoserna är skapade och publicerade i februari 2018.
+API Yrkesprognoser innehåller 1 och 5 års prognoser för olika yrken. Prognoserna är skapade och publicerade i februari 2018.
 Prognoserna baseras på standarden SSYK (standard för svensk yrkesklassificering). Läs mer om <a href="http://www.scb.se/dokumentation/klassifikationer-och-standarder/standard-for-svensk-yrkesklassificering-ssyk/" target="_blank">SSYK</a>
 
 

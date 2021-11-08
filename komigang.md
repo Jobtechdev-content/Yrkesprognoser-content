@@ -15,10 +15,10 @@ https://arbetsformedlingen.se/for-arbetssokande/yrken-och-framtid/yrkeskompassen
 ### Endpoint(s) för API
 Nedan finner du information som behövs vid anrop till detta API.
 
-### Method	Endpoint	URL
+#### Method	Endpoint	URL
 GET	/api-yrkesprognos/v1/yrkesprognos	http://{{host}:{{port}}/{{endpoint}}
 
-### Autentisering
+#### Autentisering
 
 Detta API kräver inga nycklar.
 

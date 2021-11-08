@@ -12,20 +12,11 @@ En omfattande metodbeskrivning finns i det offentliga dokumentet som refereras n
 https://arbetsformedlingen.se/for-arbetssokande/yrken-och-framtid/yrkeskompassen/#/om-yrkeskompassen
 
 
-### Anropa API
-Besök Frågor och svar för att få generell information gällande anrop, se bl.a. Hur kan jag testa att anslutningen fungerar som förväntat? och Hur ansöker jag om tillgång till ett API?).
-
-I Anslutningsinformation finner du information om vilken host och port som ska användas för respektive miljö.
-
 ### Endpoint(s) för API
 Nedan finner du information som behövs vid anrop till detta API.
 
 ### Method	Endpoint	URL
 GET	/api-yrkesprognos/v1/yrkesprognos	http://{{host}:{{port}}/{{endpoint}}
-Övrig information om API
-Detta API kräver ingen autentisering, dvs inget client id och client secret behöver anges.
-
-
 
 ### Autentisering
 

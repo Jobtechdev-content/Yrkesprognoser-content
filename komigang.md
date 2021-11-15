@@ -3,7 +3,7 @@
 
 Erbjuder data avseende bedömt arbetsmarknadsläge för yrken i termer av konkurrens och möjligheter till jobb om ett och om fem år i riket. Bedömningarna på lång och kort sikt baseras på en modell byggd av analysavdelningen med registerdata från SCB på Standard för svensk yrkesklassificering (SSYK2012), sysselsättningsstatus, utbildning samt ålder samt Arbetsförmedlingens verksamhetsstatistik på platsannonser. Prognosen justeras med hjälp av SCB:s befolkningsprognoser samt konjunkturbedömningar för näringsgrenarna. Prognosen redovisas för ca 180 prognosyrken, där ett prognosyrke består av en eller flera SSYK-yrkesgrupper.
 
-[En metodbeskrivning]( finns i dokumentet som bifogas till denna information.
+[Metodbeskrivning för Yrkesprognos APIet ](https://github.com/Jobtechdev-content/Yrkesprognoser-content/blob/develop/metodbeskrivningSV.md) 
 
 
 ### Endpoint(s) för API
